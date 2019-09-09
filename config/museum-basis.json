@@ -1,16 +1,16 @@
 [{
-  "name": "generiek-basis",
+  "name": "museum-basis",
   "type": "ap",
-  "eap": "OSLO-Generiek-Basis-AP.eap",
+  "eap": "museum-basis.eap",
   "diagram": "OSLO-Generiek-Basis",
-  "template": "generiek-basis-ap.j2",
-  "title": "Generiek Basis",
+  "template": "museum-basis-ap.j2",
+  "title": "Museum Basis",
   "publication-state": "zonderStatus",
-  "publication-date": "04-10-2018",
+  "publication-date": "17-09-2019",
   "license" : "https://data.vlaanderen.be/id/licentie/modellicentie-gratis-hergebruik/v1.0",
   "contributors-file": "stakeholders.csv",
-  "contributors-column": "Generiek",
+  "contributors-column": "Museum",
   "site": "site-skeleton",
-  "feedbackurl": "https://github.com/Informatievlaanderen/OSLO-Discussion/issues",
-  "standaardregisterurl": "https://data.vlaanderen.be/standaarden/" 
+  "feedbackurl": "",
+  "standaardregisterurl": "" 
 }]
