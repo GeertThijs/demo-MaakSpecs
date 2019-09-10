@@ -7,10 +7,10 @@
   "title": "Museum",
   "publication-state": "zonderStatus",
   "publication-date": "17-09-2019",
-  "license" : "",
+  "license" : "https://data.vlaanderen.be/id/licentie/modellicentie-gratis-hergebruik/v1.0",
   "contributors-file": "stakeholders.csv",
   "contributors-column": "Museum",
   "site": "site-skeleton",
-  "feedbackurl": "",
-  "standaardregisterurl": ""
+  "feedbackurl": "https://github.com/Informatievlaanderen/OSLO-Discussion/issues",
+  "standaardregisterurl": "https://data.vlaanderen.be/standaarden/"
 }]
