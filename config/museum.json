@@ -7,7 +7,7 @@
   "title": "Museum",
   "publication-state": "zonderStatus",
   "publication-date": "17-09-2019",
-  "license" : "https://data.vlaanderen.be/id/licentie/modellicentie-gratis-hergebruik/v1.0",
+  "license" : "",
   "contributors-file": "stakeholders.csv",
   "contributors-column": "Museum",
   "site": "site-skeleton",
