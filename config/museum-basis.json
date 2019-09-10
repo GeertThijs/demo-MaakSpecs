@@ -2,7 +2,7 @@
   "name": "museum-basis",
   "type": "ap",
   "eap": "museum-basis.eap",
-  "diagram": "OSLO-Generiek-Basis",
+  "diagram": "Museum-basis",
   "template": "museum-basis-ap.j2",
   "title": "Museum Basis",
   "publication-state": "zonderStatus",
