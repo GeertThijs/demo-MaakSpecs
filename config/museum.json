@@ -1,7 +1,7 @@
 [{
   "name": "museum",
   "type": "voc",
-  "eap": "museum.eap",
+  "eap": "museum.EAP",
   "diagram": "Museum",
   "template": "museum-voc.j2",
   "title": "Museum",
