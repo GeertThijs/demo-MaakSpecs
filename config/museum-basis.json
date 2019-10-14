@@ -2,7 +2,7 @@
   "name": "museum-basis",
   "type": "ap",
   "eap": "museum-basis2.eap",
-  "diagram": "Museum-basis",
+  "diagram": "Museum-basis 2",
   "template": "museum-basis-ap.j2",
   "title": "Museum Basis",
   "publication-state": "zonderStatus",
