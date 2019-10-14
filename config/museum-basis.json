@@ -1,10 +1,10 @@
 [{
   "name": "museum-basis",
   "type": "ap",
-  "eap": "museum-basis2.eap",
+  "eap": "museum-basis.eap",
   "diagram": "Museum-basis",
   "template": "museum-basis-ap.j2",
-  "title": "Museum Basis test",
+  "title": "Museum Basis",
   "publication-state": "zonderStatus",
   "publication-date": "17-09-2019",
   "license" : "https://data.vlaanderen.be/id/licentie/modellicentie-gratis-hergebruik/v1.0",
