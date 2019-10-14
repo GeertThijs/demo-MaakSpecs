@@ -1,8 +1,8 @@
 [{
   "name": "museum-basis",
   "type": "ap",
-  "eap": "museum-basis2.eap",
-  "diagram": "Museum-basis 2",
+  "eap": "museum-basis.eap",
+  "diagram": "Museum-basis test",
   "template": "museum-basis-ap.j2",
   "title": "Museum Basis",
   "publication-state": "zonderStatus",
