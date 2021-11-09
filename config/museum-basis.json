@@ -1,7 +1,7 @@
 [{
   "name": "museum-basis",
   "type": "ap",
-  "eap": "museum-basis-copy.EAP",
+  "eap": "original-museum-basis-copy.EAP",
   "diagram": "Museum-basis",
   "template": "museum-basis-ap.j2",
   "title": "Museum Basis",
